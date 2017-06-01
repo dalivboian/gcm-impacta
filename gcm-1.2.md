@@ -31,12 +31,17 @@ Android 4.4 - KitKat <br>
 Android 5.0/5.1 - Lollipop <br>
 Android 6.0 - Marshmallow <br>
 
-# Histórico de Versão Microsoft Windows
+# Histórico de Versão Microsoft Office
 
-Windows 95 <br>
-Windows 98 <br>
-Windows XP <br>
-Windows Vista <br>
-Windows 7 <br>
-Windows 8 <br>
-Windows 10 <br>
+Office 4.0 <br>
+Office 4.2 <br>
+Office 4.3 <br>
+Office 4.5 <br>
+Office 97 <br>
+Office 2000 <br>
+Office XP <br>
+Office 2003 <br>
+Office 2007 <br>
+Office 2010 <br>
+Office 2013 <br>
+Office 2016 <br>
